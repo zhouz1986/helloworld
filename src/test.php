@@ -5,12 +5,16 @@ class TestA {
     {
         echo 'TestA - test';
     }
+    public function test2()
+    {
+        echo 'TestA - test';
+    }
 }
 
 
 $a = 'aaaaaaaaaaaaa';
 $b = 'bbbbbbbbbbbbbb';
-$c = 'ccccccccccccc';
+$c = 'ccccccccccccc1111111';
 
 $d = $a . $b. $c;
 
