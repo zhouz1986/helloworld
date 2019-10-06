@@ -7,7 +7,7 @@ class TestA {
     }
     public function test2()
     {
-        echo 'TestA - test';
+        echo 'TestA - test2222222222222';
     }
 }
 
